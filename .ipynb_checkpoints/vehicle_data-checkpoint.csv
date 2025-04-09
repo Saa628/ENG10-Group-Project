@@ -1,0 +1,4 @@
+Vehicle,Speed,Acceleration,RPM,Fuel Consumption,Distance
+Ford,15,.5,1000,12.5,50
+Chevy,20,.01,2000,25.2,75
+Toy-yoda,100000,1250,50000,.1,20000000000

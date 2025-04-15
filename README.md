@@ -3,7 +3,7 @@ To save the code so everyone can see it you (might) need Git downloaded, and a g
 Steps to get the repository:
     1) Click "code" the green button, and copy the link this should be it (git@github.com:Saa628/ENG10-Group-Project.git) but double check
     2) Open git bash (which is a terminal) or try using the regular terminal and navigate to a directory that you want to clone it in (using ls and cd commands, mkdir "name", if you want to create a directory)
-    3) Type "git clone" followed by the url, >>> git clone git@github.com:Saa628/ENG10-Group-Project.git <<< it should look like that ignore the arrows
+    3) Type "git clone" followed by the url, >>> git clone git@github.com:Saa628/ENG10-Group-Project.git <<<
     4) Then you can open the file and make changes in jupyter or vscode or whatever you want to use.
 
 Steps to save the file:

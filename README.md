@@ -12,4 +12,9 @@ Steps to save the file:
     3) Type "git add .", then "git commit -m "any message you want" "
     4) Finally "git push", if this fails it probably means you don't have access, just dm me and i'll add you
 
+Steps to get updates to the file on your own computer:
+    1) Open the repo in the terminal
+    2) type "git pull"
+    3) that should update the files
+
 If my instructions dont make any sense just search up how to clone a repo and it should work.
